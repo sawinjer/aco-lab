@@ -5,3 +5,5 @@ edition = "2024"
 
 [dependencies]
 raylib = "5.5.1"
+ndarray = "0.16.1"
+ndarray-linalg = "0.17.0"
